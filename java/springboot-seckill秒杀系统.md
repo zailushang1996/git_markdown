@@ -10,3 +10,7 @@
 
 ![1](https://git-markdown.oss-cn-beijing.aliyuncs.com/java/20190925172802.png)
 
+### redis统一封装
+
+https://github.com/zaiyunduan123/springboot-seckill/tree/master/src/main/java/com/jesper/seckill/redis
+
