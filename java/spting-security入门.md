@@ -4,6 +4,5 @@
 
 11-
 
-![](https://git-markdown.oss-cn-beijing.aliyuncs.com/java/spring-security-01.png)
-
+![](https://pussinboots-morning.oss-cn-qingdao.aliyuncs.com/git_markdown/java/spring-security-01.png)
 
